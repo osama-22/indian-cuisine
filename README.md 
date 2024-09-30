@@ -57,6 +57,7 @@ npm install
 ```sh
 DATABASE_URL=postgres://username:password@localhost:5432/your_database
 PORT=5001
+JWT_SECRET=secret
 ```
 
 ## Database Setup
