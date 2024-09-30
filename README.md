@@ -1,6 +1,6 @@
 # Project Title
 
-A brief description of your project goes here.
+This is a Inidian Cuisines gallery where you can leverage its vast inventory of dishes according to your need.
 
 ## Table of Contents
 
