@@ -1,6 +1,6 @@
-# Indian Cuisines
+# Indian Cuisine
 
-This is an Indian Cuisines gallery where you can leverage its vast inventory of dishes according to your need.
+This is an Indian Cuisine gallery where you can leverage its vast inventory of dishes according to your need.
 
 ## Table of Contents
 
