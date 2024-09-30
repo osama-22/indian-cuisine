@@ -172,7 +172,7 @@ const Header: React.FC = () => {
       <Link className={styles.title} href={"/"}>
         <Image
           className={styles.logo}
-          src={"/images/indian-cuisine-logo-2.png"}
+          src={"/images/indian-cuisine-logo.png"}
         ></Image>
       </Link>
 
